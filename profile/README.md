@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/planni-logo-light.png">
-    <img alt="planni" src="./assets/planni-logo-dark.png" width="240">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/planni-logo-dark.png">
+    <img alt="planni" src="./assets/planni-logo-light.png" width="240">
   </picture>
 
   <h3>Event management, simplified.</h3>
